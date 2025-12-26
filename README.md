@@ -25,4 +25,4 @@ Lab ini dibuat khusus untuk **belajar dan latihan**.
 Silakan bereksperimen dan mencoba konfigurasi secara langsung.
 
 ## Penulis
-Debian Configuration Lab
+GitHub: [@2mathewww](https://github.com/2mathewww)
